@@ -28,4 +28,4 @@ e1.retirerVoiture()
 
 e1.afficherInformations()
 
-# commit 5
+# commit 6
