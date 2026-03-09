@@ -27,3 +27,5 @@ print("------ Retirer voiture ------")
 e1.retirerVoiture()
 
 e1.afficherInformations()
+
+# commit 2
