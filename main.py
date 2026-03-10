@@ -14,7 +14,7 @@ e1.afficherInformations()
 v1.afficher_Informations()
 
 
-print("------ Affectation voiture ------")
+print(" Affectation voiture ")
 
 e1.affecterVoiture(v1)
 
@@ -22,7 +22,7 @@ e1.afficherInformations()
 v1.afficher_Informations()
 
 
-print("------ Retirer voiture ------")
+print("Retirer voiture ")
 
 e1.retirerVoiture()
 
